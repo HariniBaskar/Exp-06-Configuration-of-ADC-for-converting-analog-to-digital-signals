@@ -216,6 +216,9 @@ Figure -09 graph between % of pot(1Kohm) values and ADC
 ![exp 6 beforeh](https://user-images.githubusercontent.com/93427253/200022136-50a3fd11-ecde-45f3-992e-13f089bce6b2.png)
 ### AFTER STIMULATION
 ![exp 6 afterh](https://user-images.githubusercontent.com/93427253/200022444-bf9d4801-4fbf-4a86-bf15-60347e1bc611.png)
+### CIRCUIT DIAGRAM
+![hari6](https://user-images.githubusercontent.com/93427253/200026166-1f76cd1b-8c36-4e87-9eea-5b10b48cb149.png)
+
 
 ## Result :
 Configuring an ADC and the input values are displayed on LCD screen 
