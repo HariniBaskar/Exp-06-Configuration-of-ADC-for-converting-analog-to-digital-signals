@@ -1,12 +1,14 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-## Name :	Harini.B 
-## Roll no: 212221230035
+### Name: Harini.B 
+### Roll no: 212221230035
   
   
-## Aim: To configure internal ADC for   LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
-## Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
+## Aim: 
+To configure internal ADC for   LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
+## Components required: 
+Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
  
  ![image](https://user-images.githubusercontent.com/36288975/198947663-2d75f694-880a-4bc0-be67-8c2d4125fdb6.png)
 
@@ -208,13 +210,12 @@ int main()
 
 Figure -09 graph between % of pot(1Kohm) values and ADC 
 
-Output screen shots :
+## Output screen shots :
 
-## BEFORE STIMULATION
+### BEFORE STIMULATION
 ![exp 6 beforeh](https://user-images.githubusercontent.com/93427253/200022136-50a3fd11-ecde-45f3-992e-13f089bce6b2.png)
-## AFTER STIMULATION
+### AFTER STIMULATION
 ![exp 6 afterh](https://user-images.githubusercontent.com/93427253/200022444-bf9d4801-4fbf-4a86-bf15-60347e1bc611.png)
 
-
-Result :
+## Result :
 Configuring an ADC and the input values are displayed on LCD screen 
